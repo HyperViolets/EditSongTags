@@ -3,6 +3,13 @@ import csv
 import eyed3
 import os
 
+# had to use easytag to add a title to every song
+# no special symbols in csv
+# clone from git then add file to source (Setting -> Project Structure -> Source)
+# reinstall eyeD3 on computer
+# set python interpreter to computer Python3
+# before doing the actual process, test script on a clone folder of songs for any issues
+
 songs_path = '/home/juan/Videos'
 
 
